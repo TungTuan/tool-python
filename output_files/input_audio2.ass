@@ -1,0 +1,25 @@
+
+        [Script Info]
+        Title: Transcription
+        ScriptType: v4.00+
+        Collisions: Normal
+        PlayDepth: 0
+        Timer: 100.0000
+
+        [V4+ Styles]
+        Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+        Style: Default,Arial,36,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,1,1,0,2,10,10,10,1
+        [Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:08.12,Default,,0,0,0,,2年目を終えた出な育成の渡辺明紀投手、千賀か自主退団したことが中国が分かった。
+Dialogue: 0,0:00:08.67,0:00:09.72,Default,,0,0,0,,急展開の事態だ。
+Dialogue: 0,0:00:10.30,0:00:14.50,Default,,0,0,0,,シーズン終了後に、球団と右腕の間で話し合いが続き、
+Dialogue: 0,0:00:15.25,0:00:20.66,Default,,0,0,0,,4月新独家に公示された育成選手、保留者名簿にも掲載された。
+Dialogue: 0,0:00:20.66,0:00:31.96,Default,,0,0,0,,また、G・ガツ・ジョディウスッカのONPBアワードでは、イースタンリーグの努力賞で表彰されており、同会にも出席した。
+Dialogue: 0,0:00:32.53,0:00:40.24,Default,,0,0,0,,とはいえ、この日までに一心情の都合でデナのユニフォームを脱ぐことが正式に決まった。
+Dialogue: 0,0:00:40.85,0:00:43.79,Default,,0,0,0,,リーズネンギクセイツアイで、ベースイ茨城から入団。
+Dialogue: 0,0:00:43.79,0:00:51.55,Default,,0,0,0,,オーネートルパチパチ、チェプチュズキロの調子を生かし、今季は救援として、同リーグチャチュ試合に当番。
+Dialogue: 0,0:00:52.19,0:00:57.83,Default,,0,0,0,,ソッカナショー、ヤハイ、グーセイブ、防御率、チューネズド構成席を残し、
+Dialogue: 0,0:00:58.39,0:01:03.20,Default,,0,0,0,,セイドネンブリチャー、ドームのイースタンリーグ制覇の同上投手となった。
+Dialogue: 0,0:01:03.65,0:01:11.37,Default,,0,0,0,,そしてチームはその勢いで、ファーム日本選手権でソフトバンクを倒し、史上初のウーグン日本一にも輝いた。
+Dialogue: 0,0:01:11.37,0:01:18.42,Default,,0,0,0,,渡辺は来期に無消し配下登録も期待されていたが、無念の対談となった。
